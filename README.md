@@ -1,2 +1,10 @@
 # my-portfolio
-A collection of automation and productivity tools developed using Python, VBA, and JavaScript.
+
+このリポジトリは、Python・VBA・JavaScript などを用いて開発した自動化・業務効率化ツールのポートフォリオです。全体の構成と各プロジェクトの概要をまとめています。
+
+## ディレクトリ構成
+
+- `works/` 各プロジェクトの資料・サンプルコード・スクリーンショット
+- `docs/` ポートフォリオの説明資料やスキルマップ
+
+必要に応じて `LICENSE` を追加してください。
